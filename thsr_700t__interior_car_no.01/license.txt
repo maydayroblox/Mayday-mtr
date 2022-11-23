@@ -1,0 +1,11 @@
+Model Information:
+* title:	THSR 700T / Interior (Car No.01)
+* source:	https://sketchfab.com/3d-models/thsr-700t-interior-car-no01-42b78950675942cb871904f69006783f
+* author:	Basic Hsu (https://sketchfab.com/Hsu.Pei.Ge)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "THSR 700T / Interior (Car No.01)" (https://sketchfab.com/3d-models/thsr-700t-interior-car-no01-42b78950675942cb871904f69006783f) by Basic Hsu (https://sketchfab.com/Hsu.Pei.Ge) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
